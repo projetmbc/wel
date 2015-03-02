@@ -1,0 +1,8 @@
+# Comments are single line ones and
+# they must start with a sharp symbol.
+
+# Just indicate the whole paths of the
+# directory or file you want to be opened
+# by atom.
+
+# Warning ! One line for one path.
